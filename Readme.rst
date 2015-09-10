@@ -1,6 +1,8 @@
 Hopfield Net simulator
 ######################
 
+A Java tool for exploring Hopfield Networks.
+
 Instructions for using the simulator
 ------------------------------------
 
